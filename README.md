@@ -1,6 +1,11 @@
 # E-Learning-Website
 
 
+## DEMO
+![Screenshot 2024-07-27 141048](https://github.com/user-attachments/assets/359fd545-4b0f-447f-8a5f-41685e4a1cde)
+
+![Screenshot 2024-07-27 141122](https://github.com/user-attachments/assets/4fc465d6-ac84-4525-ac21-1b462968fd91)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **E-Learning Website**
